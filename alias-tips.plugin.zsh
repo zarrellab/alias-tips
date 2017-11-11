@@ -7,7 +7,7 @@ _alias_tips__PLUGIN_DIR=${0:a:h}
 #   _alias_tips__PLUGIN_DIR=${_alias_tips__PLUGIN_DIR:h}
 # fi
 
-#export ZSH_PLUGINS_ALIAS_TIPS_TEXT="💡 Alias tip: "
+export ZSH_PLUGINS_ALIAS_TIPS_TEXT="💡 "
 #export ZSH_PLUGINS_ALIAS_TIPS_EXCLUDES="_ c"
 #export ZSH_PLUGINS_ALIAS_TIPS_EXPAND=0
 
